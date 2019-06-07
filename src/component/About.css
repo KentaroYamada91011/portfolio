@@ -1,0 +1,70 @@
+h1 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 36px;
+  font-weight: 600;
+  color:#D8D806;
+}
+
+.about__container {
+  margin-bottom: 400px;
+}
+
+.about__container:last-child {
+  margin-bottom: 0px;
+}
+
+.about__title {
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+.about__container__head {
+  position: relative;
+  top: 30px;
+  color: #707070;
+  text-decoration: underline solid #707070;
+  float: left;
+  transform:rotate(90deg);
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 36px;
+}
+
+.about__container__description {
+  width: fit-content;
+  margin: auto;
+}
+.about__container__lists {
+  margin-top: 36px;
+}
+.about__container__list {
+  list-style: none;
+}
+
+.cards {
+  display: flex;
+  width: 780px;
+  margin: auto;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.skill {
+  left: 32px;
+}
+
+@media screen and (max-width: 992px) {
+  .about__container__head {
+    position: static;
+    float: none;
+    transform:rotate(0deg);
+  }
+
+  .about__container {
+    margin-bottom: 40px;
+  }
+
+  .cards {
+    display: block;
+    width: fit-content;
+  }
+}

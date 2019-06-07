@@ -1,0 +1,31 @@
+.home__main {
+  display: flex;
+}
+
+.home__name {
+}
+
+.home__description {
+  position: absolute;
+  display: flex;
+  left: 0;
+  right: 0;
+  bottom: 150px;
+  width: 300px;
+  height: max-content;
+  margin: auto;
+}
+
+.name {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: fit-content;
+  margin: auto;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 70px;
+  font-weight: 800;
+  text-align: center;
+}
