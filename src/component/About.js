@@ -36,7 +36,6 @@ class About extends React.Component {
                 <li className="about__container__list">2018/11　プログラミングを始める(Ruby on rails)</li>
                 <li className="about__container__list">2019/04　横浜国立大学　休学</li>
                 <li className="about__container__list">2019/04~　株式会社huproにてフロントエンド エンジニアとしてフルタイムでインターンシップを始める</li>
-                <li className="about__container__list">2019/04~　株式会社nikoにてエンジニアとして立ち上げメンバーになる</li>
               </div>
             </div>
           </div>
