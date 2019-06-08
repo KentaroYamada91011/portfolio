@@ -11,7 +11,7 @@ class About extends React.Component {
   render(){
     return(
       <div  className="wrapper">
-        <BorderYellow  display="true"/>
+        <BorderYellow  />
         <div className="about__main">
           <h1 className="about__title">FOLLOW ME</h1>
           <div className="about__container">
