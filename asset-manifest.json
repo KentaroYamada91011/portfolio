@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4107eb27.chunk.css",
+    "main.js": "/portfolio/static/js/main.730d94ce.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.730d94ce.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.c5dbb1cf.chunk.js": "/portfolio/static/js/2.c5dbb1cf.chunk.js",
+    "static/js/2.c5dbb1cf.chunk.js.map": "/portfolio/static/js/2.c5dbb1cf.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.76c7c0ab4428704cc3578fd7a6997cc7.js": "/portfolio/precache-manifest.76c7c0ab4428704cc3578fd7a6997cc7.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.4107eb27.chunk.css.map": "/portfolio/static/css/main.4107eb27.chunk.css.map",
+    "static/media/github.png": "/portfolio/static/media/github.1b64e6d5.png",
+    "static/media/html.png": "/portfolio/static/media/html.664a8c00.png",
+    "static/media/lively.png": "/portfolio/static/media/lively.702adac6.png",
+    "static/media/megurume.png": "/portfolio/static/media/megurume.e4011754.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.109a8f62.png",
+    "static/media/rails.jpg": "/portfolio/static/media/rails.e45abd54.jpg",
+    "static/media/react.png": "/portfolio/static/media/react.68b835f8.png"
+  }
+}
