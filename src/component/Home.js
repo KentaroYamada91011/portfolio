@@ -27,7 +27,7 @@ class Home extends React.Component {
           <div className="home__name">
             <Box className="name" pose={this.state.isVisible ? 'visible' : 'hidden'} >YAMADA KENTARO</Box>
             <div className="home__description">
-              I am an Student,Web Developer based in Tokyo.Born in Tokyo.I'm in Yokohama National University.Engineer. Engineerring, Art, Design, Planning, Development
+              I am a Student,Web Developer based in Tokyo.Born in Tokyo.I'm in Yokohama National University.Engineer. Engineerring, Art, Design, Planning, Development
             </div>
           </div>
         </div>
