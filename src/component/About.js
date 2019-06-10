@@ -42,7 +42,7 @@ class About extends React.Component {
           <div className="about__container">
             <div className="about__container__head skill">SKILL</div>
             <div className="cards">
-              <Card img={html} title="HTML/CSS" lead="基本的なHTML5、CSS、Sassについては、atomic designに基づき、インターンシップの業務において使用しています。"/>
+              <Card img={html} title="HTML/CSS" lead="基本的なHTML5、CSS、Sassについては、atomic designに基づき、インターンシップの業務において使用。"/>
               <Card img={rails} title="Ruby" lead="プログラミングコミュ二ティにてruby on railsを学んだ後、趣味プロダクトを作成。現在はインターン先にてruby on railsを用いた開発を行う。"/>
               <Card img={react} title="Javascript" lead="インターン先にてフロントエンドエンジニアとして、Vue、Reactを用いて開発を行う。ポートフォリオサイトもReactを用いて作成。"/>
             </div>
