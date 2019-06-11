@@ -1,7 +1,7 @@
 import React from 'react';
 import posed from 'react-pose'
 import ReactDOM from 'react-dom';
-import {BrowserRouter, Switch, Route} from 'react-router-dom';
+import {BrowserRouter, Route} from 'react-router-dom';
 import About from './component/About';
 import Work from './component/Work';
 import Contact from './component/Contact';
@@ -14,7 +14,7 @@ ReactDOM.render(
   <BrowserRouter>
     <ToDo />
     <Route exact path={'/'} component={Home}/>
-    <Route path={'/about'}  render={ () => <About name={'Kentaro Yamada'}/> }/>
+    <Route path={'/about'}  component={About}/>
     <Route path={'/work'} component={Work}/>
     <Route path={'/contact'} component={Contact}/>
   </BrowserRouter>
