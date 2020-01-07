@@ -22,6 +22,10 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentaroyamada91011/portfolio.git"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
