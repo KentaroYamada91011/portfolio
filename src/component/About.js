@@ -35,16 +35,18 @@ class About extends React.Component {
                 <li className="about__container__list">2016/04　横浜国立大学　理工学部　化学生命系学科　入学</li>
                 <li className="about__container__list">2018/11　プログラミングを始める(Ruby on rails)</li>
                 <li className="about__container__list">2019/04　横浜国立大学　休学</li>
-                <li className="about__container__list">2019/04~　株式会社huproにてフロントエンド エンジニアとしてフルタイムでインターンシップを始める</li>
+                <li className="about__container__list">2019/04~　株式会社huproにて web エンジニアとしてフルタイムでインターンシップを始める</li>
+                <li className="about__container__list">2019/08　 チームラボ株式会社にてフロントエンド エンジニアとしてサマーインターンに参加</li>
+                <li className="about__container__list">2019/12~　創業メンバーとして株式会社best path partners にジョイン</li>
               </div>
             </div>
           </div>
           <div className="about__container">
             <div className="about__container__head skill">SKILL</div>
             <div className="cards">
-              <Card img={html} title="HTML/CSS" lead="基本的なHTML5、CSS、Sassについては、atomic designに基づき、インターンシップの業務において使用。"/>
-              <Card img={rails} title="Ruby" lead="プログラミングコミュ二ティにてruby on railsを学んだ後、趣味プロダクトを作成。現在はインターン先にてruby on railsを用いた開発を行う。"/>
-              <Card img={react} title="Javascript" lead="インターン先にてフロントエンドエンジニアとして、Vue、Reactを用いて開発を行う。ポートフォリオサイトもReactを用いて作成。"/>
+              <Card img={html} title="HTML/CSS" lead="基本的なHTML5、CSS、Sass(SCSS)については、業務において使用。"/>
+              <Card img={rails} title="Ruby" lead="プログラミングコミュ二ティにてruby on railsを学んだ後、趣味プロダクトを作成。現在はインターン先にてruby on railsを用いた開発、API作成、Rspecを用いたテストの作成を行っている。"/>
+              <Card img={react} title="Javascript" lead="インターン先にてフロントエンドエンジニアとして、Reactを用いて開発を行う。ポートフォリオサイトもReactを用いて作成。Vue をを用いてコーポレートサイトの作成なども行う"/>
             </div>
           </div>
         </div>
