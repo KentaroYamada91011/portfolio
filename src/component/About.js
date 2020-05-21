@@ -4,6 +4,8 @@ import BorderYellow from './BorderYellow'
 import html from '../images/html.png';
 import rails from '../images/rails.jpg';
 import react from '../images/react.png';
+import python from '../images/python.png';
+import r from '../images/r.jpeg';
 import './About.css';
 
 class About extends React.Component {
@@ -44,9 +46,11 @@ class About extends React.Component {
           <div className="about__container">
             <div className="about__container__head skill">SKILL</div>
             <div className="cards">
+              <Card img={rails} title="Ruby" lead="RoR のフレームワークを用いて株式会社ヒュープロのフルタイムエンジニアインターンや、株式会社 Best path Partners にて使用。クライアント側からバックエンド側、API作成、Rspecを用いたテストなども経験。"/>
+              <Card img={react} title="Javascript" lead="株式会社Best path Partners のコーポレートサイトをVue.js を用いて、プライシングに関するメディアをGatsby.js を用いて作成。また、ポートフォリオサイトもReact.js を用いて作成。"/>
+              <Card img={python} title="python" lead="プライシングに関するスクレイピングや分析に使用。"/>
+              <Card img={r} title="R言語" lead="プライシングに関する分析や可視化のために使用"/>
               <Card img={html} title="HTML/CSS" lead="基本的なHTML5、CSS、Sass(SCSS)については、業務において使用。"/>
-              <Card img={rails} title="Ruby" lead="プログラミングコミュ二ティにてruby on railsを学んだ後、趣味プロダクトを作成。現在はインターン先にてruby on railsを用いた開発、API作成、Rspecを用いたテストの作成を行っている。"/>
-              <Card img={react} title="Javascript" lead="インターン先にてフロントエンドエンジニアとして、Reactを用いて開発を行う。ポートフォリオサイトもReactを用いて作成。Vue をを用いてコーポレートサイトの作成なども行う"/>
             </div>
           </div>
         </div>
