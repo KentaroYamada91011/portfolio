@@ -40,7 +40,7 @@ class About extends React.Component {
                 <li className="about__container__list">2019/04~2019/12　株式会社huproにて web エンジニアとしてフルタイムでインターンシップを始める</li>
                 <li className="about__container__list">2019/08　 チームラボ株式会社にてフロントエンド エンジニアとしてサマーインターンに参加</li>
                 <li className="about__container__list">2019/12~現在　創業メンバーとして株式会社best path partners にジョイン</li>
-                <li className="about__container__list">2020/6　価格感度分析ツール、Pricing Sprint をリリース。プロダクトをアーキテクト、DB設計の全て、バックエンド、フロントエンドの大部分を1人で担当し開発。</li>
+                <li className="about__container__list">2020/06　価格感度分析ツール、Pricing Sprint をリリース<br/>プロダクトをアーキテクト、DB設計の全て、バックエンド、フロントエンドの大部分を1人で担当し開発。</li>
               </div>
             </div>
           </div>
