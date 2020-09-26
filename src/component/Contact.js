@@ -42,7 +42,7 @@ class About extends React.Component {
         <div className="about__main">
           <h1 className="about__title">e-mail</h1>
           <div className="contact__mail">
-            kentaro.10.11@icloud.com
+            kentaro91011yamada@gmail.com
           </div>
         </div>
       </div>

@@ -37,9 +37,10 @@ class About extends React.Component {
                 <li className="about__container__list">2016/04　横浜国立大学　理工学部　化学生命系学科　入学</li>
                 <li className="about__container__list">2018/11　プログラミングを始める(Ruby on rails)</li>
                 <li className="about__container__list">2019/04　横浜国立大学　休学</li>
-                <li className="about__container__list">2019/04~　株式会社huproにて web エンジニアとしてフルタイムでインターンシップを始める</li>
+                <li className="about__container__list">2019/04~2019/12　株式会社huproにて web エンジニアとしてフルタイムでインターンシップを始める</li>
                 <li className="about__container__list">2019/08　 チームラボ株式会社にてフロントエンド エンジニアとしてサマーインターンに参加</li>
-                <li className="about__container__list">2019/12~　創業メンバーとして株式会社best path partners にジョイン</li>
+                <li className="about__container__list">2019/12~現在　創業メンバーとして株式会社best path partners にジョイン</li>
+                <li className="about__container__list">2020/6　価格感度分析ツール、Pricing Sprint をリリース。プロダクトをアーキテクト、DB設計の全て、バックエンド、フロントエンドの大部分を1人で担当し開発。</li>
               </div>
             </div>
           </div>
