@@ -22,7 +22,7 @@ class About extends React.Component {
                 </a>
               </li>
               <li class="contact__list">
-                <a href="https://twitter.com/" target="_blank" rel="nofollow">
+                <a href="https://twitter.com/reiwaStudent" target="_blank" rel="nofollow">
                   <img src={twitter} className="sns__img"　/>
                 </a>
               </li>

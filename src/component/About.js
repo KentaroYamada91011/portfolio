@@ -3,6 +3,7 @@ import Card from './Card'
 import BorderYellow from './BorderYellow'
 import html from '../images/html.png';
 import rails from '../images/rails.jpg';
+import java from '../images/java.png';
 import react from '../images/react.png';
 import python from '../images/python.png';
 import r from '../images/r.jpeg';
@@ -41,7 +42,7 @@ class About extends React.Component {
                 <li className="about__container__list">2019/08　 チームラボ株式会社にてフロントエンド エンジニアとしてサマーインターンに参加</li>
                 <li className="about__container__list">2019/12~現在　創業メンバーとして株式会社Prining Studio にジョイン</li>
                 <li className="about__container__list">2020/06　価格感度分析ツール、Pricing Sprint をリリース<br/>プロダクトをアーキテクト、DB設計の全て、バックエンド、フロントエンドの大部分を1人で担当し開発。<br/>上場企業を含む複数社に導入</li>
-                <li className="about__container__list">2020/09　技育展にて約200名の閲覧者の中、zoom で価格感度分析ツール、Pricing Sprint の開発について発表</li>
+                <li className="about__container__list">2020/09　技育展にて約200名の閲覧者の中、zoom で価格感度分析ツール、Pricing Sprint の開発についてオンラインで発表</li>
                 <li className="about__container__list">2021/03　横浜国立大学　卒業</li>
                 <li className="about__container__list">2021/04　楽天株式会社入社</li>
               </div>
@@ -51,7 +52,7 @@ class About extends React.Component {
             <div className="about__container__head skill">SKILL</div>
             <div className="cards">
               <Card img={rails} title="Ruby" lead="RoR のフレームワークを用いて株式会社ヒュープロのフルタイムエンジニアインターンや、株式会社 Prining Studio にて使用。クライアント側からバックエンド側、API作成、Rspecを用いたテストなども経験"/>
-              <Card img={rails} title="Java" lead="Spring boot のフレームワークを用いて、マイクロサービス化した大規模サービスのAPI開発を行う"/>
+              <Card img={java} title="Java" lead="Spring boot のフレームワークを用いて、マイクロサービス化した大規模サービスのAPI開発を行う"/>
               <Card img={react} title="Javascript" lead="株式会社Prining Studio のコーポレートサイトをVue.js を用いて、プライシングに関するメディアをGatsby.js を用いて作成。また、ポートフォリオサイトもReact.js を用いて作成"/>
               <Card img={python} title="python" lead="プライシングに関するスクレイピングや分析に使用。"/>
               <Card img={r} title="R言語" lead="プライシングに関する分析や可視化のために使用"/>
