@@ -9,7 +9,7 @@
     "react-pose": "4.0.8",
     "react-router": "5.0.0",
     "react-router-dom": "5.0.0",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-three-renderer": "3.2.4",
     "three": "0.105.2"
   },
